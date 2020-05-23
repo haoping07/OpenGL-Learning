@@ -1,4 +1,4 @@
-# OpenGL-Learning
+## OpenGL Learning
 
  Reference:
  - https://learnopengl.com/
